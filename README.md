@@ -52,8 +52,5 @@ With the rapid growth of e-commerce, automated visual recognition systems are cr
 │   │   └── u-net-tl.ipynb
 │   └── Yolo/
 │       └── yolo-tl.ipynb
-├── Inference_MP1/                 # Final inference scripts for hidden test set evaluation
-│   ├── predictor.py               
-│   ├── validator_local.py         
-│   └── requirements.txt           
+|          
 └── README.md
